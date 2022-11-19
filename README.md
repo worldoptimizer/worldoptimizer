@@ -2,7 +2,7 @@
 
 # I am an ambitious web designer and animator
 
-In 20 years of experience, I have accumulated a wide range of expertise and offer an extensive skillset from conception to implementation.
+In 25 years of experience, I have accumulated a wide range of expertise and offer an extensive skillset from conception to implementation.
 
 I use GitHub to share some of my code ideas and helpers. Currently, most of my repositories are based on Tumult Hype as I find it a very useful tool to create unique HTML5 projects. The repositories don't include example files as version tracking doesn't make that much sense on them. That said, there are many example files to be found in the [Hype forum](https://forums.tumult.com/) and on my [Gumroad account](https://gumroad.com/maxziebell).
 
