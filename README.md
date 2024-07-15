@@ -1,5 +1,3 @@
-<img src="https://maxziebell.de/wp-content/uploads/2018/11/Max-Ziebell-Konzept-3-e1543533327368.png" align="right" width="50%"> 
-
 # I am an ambitious web designer and animator
 
 In 25 years of experience, I have accumulated a wide range of expertise and offer an extensive skillset from conception to implementation.
